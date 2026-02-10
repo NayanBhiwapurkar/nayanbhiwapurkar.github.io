@@ -1,4 +1,4 @@
-# Data Scientist | Data Engineer | Data Analyst | AI/ML Developer 
+# Data Engineer | Data Scientist | Data Analyst | AI/ML Developer 
 
 
 
@@ -18,11 +18,11 @@
 ## Education
 
 ### MS in Data Science Analytics and Engineering 
-#### Arizona State University, Tempe, AZ, US (_May 2025_)
+#### Arizona State University | Tempe, AZ, US | (_May 2025_) | GPA 4.0/4.0
 - Courses: Statistics for Data Analysts, Artificial Intelligence, Data Mining, Data Visualization, Data Processing at Scale, Statistical Machine Learning, Deep Learning, Numerical Optimization, Fundamentals of Statistical Learning and Pattern Recognition,
 
 ### B.E in Computer Science Engineering
-#### University of Pune, Pune, MH, India (_May 2020_)
+#### University of Pune | Pune, MH, India | (_May 2020_) | GPA 8.6/10
 - Courses: Data Analytics, Data Mining and Warehousing, Artificial Intelligence, Machine Learning, Engineering Mathematics.
 
 
@@ -36,11 +36,7 @@
 
 
 
-
-
-## Projects
-
-
+% ## Projects
 
 
 
