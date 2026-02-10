@@ -36,7 +36,7 @@
 
 
 
-% ## Projects
+<!--- ## Projects --->
 
 
 
